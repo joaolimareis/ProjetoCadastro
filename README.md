@@ -1,3 +1,3 @@
 # Cadastro de Produtos e Clientes
 
-Apenas para aprendizado com C#, aprendendo POO, listas e dicionarios
+Apenas para aprendizado com C#, aprendendo POO, listas
